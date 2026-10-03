@@ -44,6 +44,7 @@ Backend
 
 ## Structure
 
+```text
 LinearAlgebraPracticeProblems/ 
 ├── backend/ 
 │ ├── data/
@@ -116,6 +117,7 @@ LinearAlgebraPracticeProblems/
 ├── package.json 
 ├── README.md 
 └── vite.config.js
+```
 
 ## Linear Algebra Topics
 
