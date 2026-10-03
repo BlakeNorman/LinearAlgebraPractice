@@ -1036,7 +1036,7 @@ export const subspacesQuestions = [
                 <InlineMath math="U" />
                 {" "} be subspaces of {" "}
                 <InlineMath math="V." />
-                {" "} then {" "}
+                {" "} Then {" "}
                 <InlineMath math="
                     W + U = \{{\bf w} + {\bf u} 
                     \mid 
