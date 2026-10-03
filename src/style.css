@@ -1,0 +1,62 @@
+.login-register>input {
+    width: 175px;
+    margin-bottom: 3px;
+}
+
+.topic-list {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.topic-checkbox {
+    display: flex;
+    align-items: center;
+}
+
+.topic-checkbox input {
+    margin-right: 8px;
+}
+
+.basic-button {
+    margin: 3px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 3px;
+    padding-bottom: 4px;
+    background: #dfdfdf;
+    font-family: inherit;
+    font-weight: 600;
+}
+
+.basic-button:hover {
+    transform: translateY(-1px);
+
+    box-shadow:
+        0 3px 7px rgba(0, 0, 0, 0.3);
+}
+
+.letter-answer-button {
+    width: 25px;
+}
+
+.true-false-answer-button {
+    width: 50px;
+}
+
+.log-out-button {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.mastery-module {
+    background: rgb(255, 255, 255);
+    border: 1px solid #333;
+    border-radius: 12px;
+    padding: 12px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: left;
+    width: fit-content;
+}
